@@ -9,7 +9,7 @@
 
 ## Material Necessário
 
-- Balança
+- Balança digital
 - Um tablet ou celular para interagir com a balança (inserir/receber dados do paciente: idade, altura)
 - eletrodos adesivos
 - bateria
