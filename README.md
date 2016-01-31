@@ -15,6 +15,15 @@
 - bateria
 - dispositvos wi-fi
 - memória (Dúvidas)
+- 1 sensor para medir a altura
+- suporte para o sensor de altura
+- 4 células de carga
+
+## Agenda
+	Mês: Fevereiro
+		- Configurar o sistema para Android
+		- Iniciar o relatório
+		- Pesquisar/comprar uma balança usada para testes
 
 ## Tarefas a fazer
 

@@ -1,0 +1,7 @@
+Materiais e construção da balança digital: https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-guide
+
+http://forum.arduino.cc/index.php?topic=145031.0
+
+https://learn.sparkfun.com/tutorials/getting-started-with-load-cells?_ga=1.155417468.675918728.1454151945
+
+http://www.open-electronics.org/wi-fi-body-scale-with-arduino/
